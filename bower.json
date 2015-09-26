@@ -1,0 +1,17 @@
+{
+  "name": "wheelevent.js",
+  "main": "wheelevent.js",
+  "version": "1.0.0",
+  "authors": [ "Narazaka <info@narazaka.net>" ],
+  "description": "The mouse wheel event (y axis).",
+  "keywords": [ "mouse", "wheel", "event", "scroll" ],
+  "license": "MIT",
+  "homepage": "https://github.com/Narazaka/wheelevent.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
